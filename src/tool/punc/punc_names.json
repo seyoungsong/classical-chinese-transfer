@@ -1,0 +1,23 @@
+{
+  " ": "Space",
+  "!": "ExclamationMark",
+  "\"": "QuotationMark",
+  "'": "Apostrophe",
+  ",": "Comma",
+  "/": "Solidus",
+  ":": "Colon",
+  ";": "Semicolon",
+  "?": "QuestionMark",
+  "|": "VerticalLine",
+  "·": "MiddleDot",
+  "、": "IdeographicComma",
+  "。": "IdeographicFullStop",
+  "〈": "LeftAngleBracket",
+  "〉": "RightAngleBracket",
+  "《": "LeftDoubleAngleBracket",
+  "》": "RightDoubleAngleBracket",
+  "「": "LeftCornerBracket",
+  "」": "RightCornerBracket",
+  "『": "LeftWhiteCornerBracket",
+  "』": "RightWhiteCornerBracket"
+}

@@ -1,0 +1,16 @@
+https://db.itkc.or.kr/dir/item?itemId=ST#/dir/list?itemId=ST&gubun=book
+https://db.itkc.or.kr/dir/item?itemId=ST#/dir/node?dataId=ITKC_ST_P0_A01_03A_12A
+https://db.itkc.or.kr/dir/item?itemId=ST#/dir/node?dataId=ITKC_ST_U0_A04_05A_14A
+https://db.itkc.or.kr/dir/item?itemId=ST#/dir/node?dataId=ITKC_ST_ZA_A04_07A_25A
+https://db.itkc.or.kr/dir/item?itemId=ST#dir/list?itemId=ST
+https://db.itkc.or.kr/dir/item?itemId=ST#dir/list?itemId=ST&gubun=book&pageIndex=1&pageUnit=2000
+https://db.itkc.or.kr/dir/list?itemId=ST&pageIndex=1&pageUnit=2000&gubun=book
+https://db.itkc.or.kr/dir/node?dataId=ITKC_ST_U0
+https://db.itkc.or.kr/dir/node?dataId=ITKC_ST_U0_A04
+https://db.itkc.or.kr/dir/node?dataId=ITKC_ST_U0_A04_05A_14A
+https://db.itkc.or.kr/dir/nodeViewPop?dataId=ITKC_ST_U0_A04_05A_14A
+https://db.itkc.or.kr/dir/treeAjax?dataId=ITKC_ST
+https://db.itkc.or.kr/dir/treeAjax?dataId=ITKC_ST_U0
+https://db.itkc.or.kr/dir/treeAjax?dataId=ITKC_ST_U0_A04
+https://db.itkc.or.kr/dir/treeAjax?dataId=ITKC_ST_U0_A04_05A
+https://db.itkc.or.kr/dir/treeAjax?dataId=ITKC_ST_U0_A04_05A_14A
