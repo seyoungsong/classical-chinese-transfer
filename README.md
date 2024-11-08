@@ -1,6 +1,6 @@
 # Classical Chinese Transfer Analysis
 
-Code and data for the paper ["When Does Classical Chinese Help? Quantifying Cross-Lingual Transfer in Hanja and Kanbun"](https://arxiv.org/abs/) (preprint)
+Code and data for the paper ["When Does Classical Chinese Help? Quantifying Cross-Lingual Transfer in Hanja and Kanbun"](https://arxiv.org/abs/2411.04822) (preprint)
 
 ## Abstract
 
@@ -37,5 +37,13 @@ Our implementations use:
 ## Citation
 
 ```bibtex
-[Citation will be added upon publication]
+@misc{song2024doesclassicalchinesehelp,
+    archiveprefix = {arXiv},
+    author        = {Seyoung Song and Haneul Yoo and Jiho Jin and Kyunghyun Cho and Alice Oh},
+    eprint        = {2411.04822},
+    primaryclass  = {cs.CL},
+    title         = {When Does Classical Chinese Help? Quantifying Cross-Lingual Transfer in Hanja and Kanbun},
+    url           = {https://arxiv.org/abs/2411.04822},
+    year          = {2024},
+}
 ```
